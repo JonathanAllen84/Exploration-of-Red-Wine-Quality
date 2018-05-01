@@ -1,0 +1,13 @@
+Resources for 'Exploration of Red Wine Quality by Jonathan Allen'
+
+1) P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
+Modeling wine preferences by data mining from physicochemical properties.
+In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+
+2) Aids, Bases, & pH - https://www.sciencebuddies.org/science-fair-projects/references/acids-bases-the-ph-scale
+
+3) Wine Jargon: What is Residual Sugar? - https://drinks.seriouseats.com/2013/04/wine-jargon-what-is-residual-sugar-riesling-fermentation-steven-grubbs.html
+
+4) How Basic Wine Characteristics Help You Find Favorites - http://winefolly.com/review/wine-characteristics/
+
+5) Side-by-side box plots - https://stackoverflow.com/questions/14608422/boxplots-for-groups
